@@ -1,0 +1,5 @@
+purplecoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/purplecoin-qt.desktop usr/share/applications
+debian/purplecoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,2 @@
+debian/bin/purplecoind usr/bin
+src/purplecoind usr/lib/purplecoin
