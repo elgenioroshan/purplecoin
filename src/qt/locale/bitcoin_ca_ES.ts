@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PurpleCoin</source>
-        <translation>Sobre PurpleCoin</translation>
+        <source>About Purplecoin</source>
+        <translation>Sobre Purplecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PurpleCoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;PurpleCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Purplecoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Purplecoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The PurpleCoin developers
-Copyright © 2014 The PurpleCoin developers</source>
+Copyright © 2012-2014 The Purplecoin developers
+Copyright © 2014 The Purplecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The PurpleCoin developers
-Copyright © 2014 The PurpleCoin developers</translation>
+Copyright © 2012-2014 The Purplecoin developers
+Copyright © 2014 The Purplecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PurpleCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de PurpleCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Purplecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Purplecoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PurpleCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça PurpleCoin</translation>
+        <source>Sign a message to prove you own a Purplecoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Purplecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PurpleCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça PurpleCoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Purplecoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Purplecoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>PurpleCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PurpleCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Purplecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Purplecoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about PurpleCoin</source>
-        <translation>Mostra informació sobre PurpleCoin</translation>
+        <source>Show information about Purplecoin</source>
+        <translation>Mostra informació sobre Purplecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a PurpleCoin address</source>
-        <translation>Enviar monedes a una adreça PurpleCoin</translation>
+        <source>Send coins to a Purplecoin address</source>
+        <translation>Enviar monedes a una adreça Purplecoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for PurpleCoin</source>
-        <translation>Modificar les opcions de configuració per a PurpleCoin</translation>
+        <source>Modify configuration options for Purplecoin</source>
+        <translation>Modificar les opcions de configuració per a Purplecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>PurpleCoin</source>
-        <translation>PurpleCoin</translation>
+        <source>Purplecoin</source>
+        <translation>Purplecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About PurpleCoin</source>
-        <translation>&amp;Sobre PurpleCoin</translation>
+        <source>&amp;About Purplecoin</source>
+        <translation>&amp;Sobre Purplecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PurpleCoin client</source>
-        <translation>Client PurpleCoin</translation>
+        <source>Purplecoin client</source>
+        <translation>Client Purplecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to PurpleCoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa PurpleCoin</numerusform><numerusform>%n conexions actives a la xarxa PurpleCoin</numerusform></translation>
+        <source>%n active connection(s) to Purplecoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Purplecoin</numerusform><numerusform>%n conexions actives a la xarxa Purplecoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -579,13 +579,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About PurpleCoin card</source>
-        <translation>Sobre la tarjeta PurpleCoin</translation>
+        <source>About Purplecoin card</source>
+        <translation>Sobre la tarjeta Purplecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about PurpleCoin card</source>
-        <translation>Mostra informació sobre la tarjeta PurpleCoin</translation>
+        <source>Show information about Purplecoin card</source>
+        <translation>Mostra informació sobre la tarjeta Purplecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -660,8 +660,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PurpleCoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça PurpleCoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Purplecoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Purplecoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PurpleCoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. PurpleCoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Purplecoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Purplecoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1054,8 +1054,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PurpleCoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça PurpleCoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Purplecoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Purplecoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PurpleCoin-Qt</source>
-        <translation>PurpleCoin-Qt</translation>
+        <source>Purplecoin-Qt</source>
+        <translation>Purplecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PurpleCoin after logging in to the system.</source>
-        <translation>Inicia automàticament PurpleCoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Purplecoin after logging in to the system.</source>
+        <translation>Inicia automàticament Purplecoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PurpleCoin on system login</source>
-        <translation>&amp;Iniciar PurpleCoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Purplecoin on system login</source>
+        <translation>&amp;Iniciar Purplecoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PurpleCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client PurpleCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Purplecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Purplecoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PurpleCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa PurpleCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Purplecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Purplecoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PurpleCoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar PurpleCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Purplecoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Purplecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PurpleCoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar PurpleCoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Purplecoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar Purplecoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PurpleCoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar PurpleCoin.</translation>
+        <source>This setting will take effect after restarting Purplecoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Purplecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PurpleCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa PurpleCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Purplecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa Purplecoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PurpleCoin-Qt help message to get a list with possible PurpleCoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de PurpleCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres PurpleCoin.</translation>
+        <source>Show the Purplecoin-Qt help message to get a list with possible Purplecoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Purplecoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Purplecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>PurpleCoin - Debug window</source>
-        <translation>PurpleCoin - Finestra Depuració</translation>
+        <source>Purplecoin - Debug window</source>
+        <translation>Purplecoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PurpleCoin Core</source>
-        <translation>Nucli PurpleCoin</translation>
+        <source>Purplecoin Core</source>
+        <translation>Nucli Purplecoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PurpleCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració PurpleCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Purplecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Purplecoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PurpleCoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de PurpleCoin.</translation>
+        <source>Welcome to the Purplecoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Purplecoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PurpleCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Purplecoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PurpleCoin address</source>
-        <translation>ADVERTÈNCIA: Direcció PurpleCoin invàlida</translation>
+        <source>WARNING: Invalid Purplecoin address</source>
+        <translation>ADVERTÈNCIA: Direcció Purplecoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PurpleCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Purplecoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PurpleCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça PurpleCoin</translation>
+        <source>Sign the message to prove you own this Purplecoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Purplecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PurpleCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça PurpleCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Purplecoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Purplecoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PurpleCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Purplecoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PurpleCoin signature</source>
-        <translation>Introduïu la signatura PurpleCoin</translation>
+        <source>Enter Purplecoin signature</source>
+        <translation>Introduïu la signatura Purplecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PurpleCoin version</source>
-        <translation>versió PurpleCoin</translation>
+        <source>Purplecoin version</source>
+        <translation>versió Purplecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2801,8 +2801,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PurpleCoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni PurpleCoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Purplecoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Purplecoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2997,7 +2997,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Purplecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
@@ -3008,7 +3008,7 @@ rpcpassword=%s
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Purplecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PurpleCoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. PurpleCoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Purplecoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Purplecoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PurpleCoin</source>
-        <translation>PurpleCoin</translation>
+        <source>Purplecoin</source>
+        <translation>Purplecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PurpleCoin</source>
-        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de PurpleCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Purplecoin</source>
+        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de Purplecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PurpleCoin to complete</source>
-        <translation>La cartera necessita ser reescrita: reiniciar PurpleCoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart Purplecoin to complete</source>
+        <translation>La cartera necessita ser reescrita: reiniciar Purplecoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PurpleCoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. PurpleCoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Purplecoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Purplecoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

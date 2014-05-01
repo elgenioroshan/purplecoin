@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PurpleCoin</source>
-        <translation>Despre PurpleCoin</translation>
+        <source>About Purplecoin</source>
+        <translation>Despre Purplecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PurpleCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;PurpleCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Purplecoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Purplecoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The PurpleCoin developers
-Copyright © 2014 The PurpleCoin developers</source>
+Copyright © 2012-2014 The Purplecoin developers
+Copyright © 2014 The Purplecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The PurpleCoin developers
-Copyright © 2014 The PurpleCoin developers</translation>
+Copyright © 2012-2014 The Purplecoin developers
+Copyright © 2014 The Purplecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PurpleCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele PurpleCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Purplecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Purplecoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PurpleCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PurpleCoin</translation>
+        <source>Sign a message to prove you own a Purplecoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Purplecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PurpleCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PurpleCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Purplecoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Purplecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>PurpleCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PurpleCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Purplecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Purplecoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about PurpleCoin</source>
-        <translation>Arată informații despre PurpleCoin</translation>
+        <source>Show information about Purplecoin</source>
+        <translation>Arată informații despre Purplecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a PurpleCoin address</source>
-        <translation>Trimite monede către o adresă PurpleCoin</translation>
+        <source>Send coins to a Purplecoin address</source>
+        <translation>Trimite monede către o adresă Purplecoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for PurpleCoin</source>
-        <translation>Modifică opțiuni de configurare pentru PurpleCoin</translation>
+        <source>Modify configuration options for Purplecoin</source>
+        <translation>Modifică opțiuni de configurare pentru Purplecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>PurpleCoin</source>
-        <translation>PurpleCoin</translation>
+        <source>Purplecoin</source>
+        <translation>Purplecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About PurpleCoin</source>
-        <translation>Despre PurpleCoin</translation>
+        <source>&amp;About Purplecoin</source>
+        <translation>Despre Purplecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PurpleCoin client</source>
-        <translation>Clientul PurpleCoin</translation>
+        <source>Purplecoin client</source>
+        <translation>Clientul Purplecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to PurpleCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua PurpleCoin</numerusform><numerusform>%n conexiuni active la reteaua PurpleCoin</numerusform><numerusform>%n conexiuni active la reteaua PurpleCoin</numerusform></translation>
+        <source>%n active connection(s) to Purplecoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Purplecoin</numerusform><numerusform>%n conexiuni active la reteaua Purplecoin</numerusform><numerusform>%n conexiuni active la reteaua Purplecoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About PurpleCoin card</source>
-        <translation>Despre cardul PurpleCoin</translation>
+        <source>About Purplecoin card</source>
+        <translation>Despre cardul Purplecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about PurpleCoin card</source>
-        <translation>Arată informații despre card PurpleCoin</translation>
+        <source>Show information about Purplecoin card</source>
+        <translation>Arată informații despre card Purplecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PurpleCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa PurpleCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Purplecoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Purplecoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PurpleCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. PurpleCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Purplecoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Purplecoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PurpleCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă PurpleCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Purplecoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Purplecoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PurpleCoin-Qt</source>
-        <translation>PurpleCoin-Qt</translation>
+        <source>Purplecoin-Qt</source>
+        <translation>Purplecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PurpleCoin after logging in to the system.</source>
-        <translation>Pornește PurpleCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start Purplecoin after logging in to the system.</source>
+        <translation>Pornește Purplecoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PurpleCoin on system login</source>
-        <translation>$Pornește PurpleCoin la logarea în sistem</translation>
+        <source>&amp;Start Purplecoin on system login</source>
+        <translation>$Pornește Purplecoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PurpleCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul PurpleCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Purplecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Purplecoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PurpleCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua PurpleCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Purplecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Purplecoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PurpleCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea PurpleCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Purplecoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Purplecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PurpleCoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese PurpleCoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Purplecoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Purplecoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PurpleCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea PurpleCoin.</translation>
+        <source>This setting will take effect after restarting Purplecoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Purplecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PurpleCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua PurpleCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Purplecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Purplecoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PurpleCoin-Qt help message to get a list with possible PurpleCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor PurpleCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă PurpleCoin.</translation>
+        <source>Show the Purplecoin-Qt help message to get a list with possible Purplecoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor Purplecoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Purplecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>PurpleCoin - Debug window</source>
-        <translation>PurpleCoin - fereastră depanare</translation>
+        <source>Purplecoin - Debug window</source>
+        <translation>Purplecoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PurpleCoin Core</source>
-        <translation>PurpleCoin Core</translation>
+        <source>Purplecoin Core</source>
+        <translation>Purplecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PurpleCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare PurpleCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Purplecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Purplecoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PurpleCoin RPC console.</source>
-        <translation>Bine ati venit la consola PurpleCoin RPC.</translation>
+        <source>Welcome to the Purplecoin RPC console.</source>
+        <translation>Bine ati venit la consola Purplecoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă PurpleCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Purplecoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PurpleCoin address</source>
-        <translation>Atenție: Adresă PurpleCoin invalidă</translation>
+        <source>WARNING: Invalid Purplecoin address</source>
+        <translation>Atenție: Adresă Purplecoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1940,8 +1940,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă PurpleCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Purplecoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2001,8 +2001,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PurpleCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PurpleCoin</translation>
+        <source>Sign the message to prove you own this Purplecoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Purplecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PurpleCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PurpleCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Purplecoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Purplecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă PurpleCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Purplecoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PurpleCoin signature</source>
-        <translation>Introduceti semnatura PurpleCoin</translation>
+        <source>Enter Purplecoin signature</source>
+        <translation>Introduceti semnatura Purplecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PurpleCoin version</source>
-        <translation>Versiune PurpleCoin</translation>
+        <source>Purplecoin version</source>
+        <translation>Versiune Purplecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PurpleCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit PurpleCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Purplecoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Purplecoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Purplecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
 Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=purplecoinrpc
@@ -3015,7 +3015,7 @@ rpcpassword=%s
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Purplecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PurpleCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Purplecoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PurpleCoin</source>
-        <translation>PurpleCoin</translation>
+        <source>Purplecoin</source>
+        <translation>Purplecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PurpleCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de PurpleCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Purplecoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Purplecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PurpleCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați PurpleCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Purplecoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Purplecoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PurpleCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil PurpleCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Purplecoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Purplecoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

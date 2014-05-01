@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "PurpleCoin"
-            VALUE "FileDescription",    "PurpleCoin-Qt (OSS GUI client for PurpleCoin)"
+            VALUE "CompanyName",        "Purplecoin"
+            VALUE "FileDescription",    "Purplecoin-Qt (OSS GUI client for Purplecoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "purplecoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The PurpleCoin & PPCoin developers, 2014 The PurpleCoin developers"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The Purplecoin & PPCoin developers, 2014 The Purplecoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "purplecoin-qt.exe"
-            VALUE "ProductName",        "PurpleCoin-Qt"
+            VALUE "ProductName",        "Purplecoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PurpleCoin</source>
-        <translation>O PurpleCoin</translation>
+        <source>About Purplecoin</source>
+        <translation>O Purplecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PurpleCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;PurpleCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Purplecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Purplecoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The PurpleCoin developers
-Copyright © 2014 The PurpleCoin developers</source>
+Copyright © 2012-2014 The Purplecoin developers
+Copyright © 2014 The Purplecoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PurpleCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši PurpleCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your Purplecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši Purplecoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PurpleCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva PurpleCoin naslova</translation>
+        <source>Sign a message to prove you own a Purplecoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Purplecoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PurpleCoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim PurpleCoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified Purplecoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Purplecoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>PurpleCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PurpleCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Purplecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Purplecoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about PurpleCoin</source>
-        <translation>Pokaži informacije o PurpleCoin</translation>
+        <source>Show information about Purplecoin</source>
+        <translation>Pokaži informacije o Purplecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,12 +425,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a PurpleCoin address</source>
-        <translation>Pošlji kovance na PurpleCoin naslov</translation>
+        <source>Send coins to a Purplecoin address</source>
+        <translation>Pošlji kovance na Purplecoin naslov</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for PurpleCoin</source>
+        <source>Modify configuration options for Purplecoin</source>
         <translation>Spremeni nastavitve za Purplecoin</translation>
     </message>
     <message>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>PurpleCoin</source>
-        <translation>PurpleCoin</translation>
+        <source>Purplecoin</source>
+        <translation>Purplecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About PurpleCoin</source>
-        <translation>&amp;O PurpleCoin</translation>
+        <source>&amp;About Purplecoin</source>
+        <translation>&amp;O Purplecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PurpleCoin client</source>
-        <translation>PurpleCoin program</translation>
+        <source>Purplecoin client</source>
+        <translation>Purplecoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to PurpleCoin network</source>
-        <translation><numerusform>%n aktivne povezave na PurpleCoin omrežje</numerusform><numerusform>%n aktivnih povezav na PurpleCoin omrežje</numerusform><numerusform>%n aktivnih povezav na PurpleCoin omrežje</numerusform><numerusform>%n aktivnih povezav na PurpleCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to Purplecoin network</source>
+        <translation><numerusform>%n aktivne povezave na Purplecoin omrežje</numerusform><numerusform>%n aktivnih povezav na Purplecoin omrežje</numerusform><numerusform>%n aktivnih povezav na Purplecoin omrežje</numerusform><numerusform>%n aktivnih povezav na Purplecoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -582,12 +582,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About PurpleCoin card</source>
+        <source>About Purplecoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about PurpleCoin card</source>
+        <source>Show information about Purplecoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PurpleCoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega PurpleCoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Purplecoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Purplecoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PurpleCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program PurpleCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Purplecoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Purplecoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PurpleCoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven PurpleCoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Purplecoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Purplecoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PurpleCoin-Qt</source>
-        <translation>PurpleCoin-Qt</translation>
+        <source>Purplecoin-Qt</source>
+        <translation>Purplecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PurpleCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi PurpleCoin ob zagonu sistema.</translation>
+        <source>Automatically start Purplecoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi Purplecoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PurpleCoin on system login</source>
-        <translation>&amp;Zaženi PurpleCoin ob prijavi v sistem</translation>
+        <source>&amp;Start Purplecoin on system login</source>
+        <translation>&amp;Zaženi Purplecoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PurpleCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za PurpleCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Purplecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Purplecoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PurpleCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na PurpleCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the Purplecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na Purplecoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PurpleCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu PurpleCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Purplecoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Purplecoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PurpleCoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza PurpleCoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show Purplecoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza Purplecoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PurpleCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu PurpleCoin aplikacije</translation>
+        <source>This setting will take effect after restarting Purplecoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Purplecoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PurpleCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z PurpleCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Purplecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Purplecoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PurpleCoin-Qt help message to get a list with possible PurpleCoin command-line options.</source>
-        <translation>Prikaži PurpleCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice PurpleCoin aplikacije</translation>
+        <source>Show the Purplecoin-Qt help message to get a list with possible Purplecoin command-line options.</source>
+        <translation>Prikaži Purplecoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Purplecoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>PurpleCoin - Debug window</source>
-        <translation>PurpleCoin - okno za odpravljanje napak</translation>
+        <source>Purplecoin - Debug window</source>
+        <translation>Purplecoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PurpleCoin Core</source>
-        <translation>PurpleCoin jedro</translation>
+        <source>Purplecoin Core</source>
+        <translation>Purplecoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PurpleCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri PurpleCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Purplecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Purplecoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PurpleCoin RPC console.</source>
-        <translation>Dobrodošli v PurpleCoin RPC konzoli.</translation>
+        <source>Welcome to the Purplecoin RPC console.</source>
+        <translation>Dobrodošli v Purplecoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite PurpleCoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Purplecoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PurpleCoin address</source>
-        <translation>OPOZORILO: Neveljaven PurpleCoin naslov</translation>
+        <source>WARNING: Invalid Purplecoin address</source>
+        <translation>OPOZORILO: Neveljaven Purplecoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1938,8 +1938,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite PurpleCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Purplecoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1999,8 +1999,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PurpleCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva PurpleCoin naslova</translation>
+        <source>Sign the message to prove you own this Purplecoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Purplecoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,8 +2031,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PurpleCoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim PurpleCoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified Purplecoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Purplecoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PurpleCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite PurpleCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Purplecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Purplecoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PurpleCoin signature</source>
-        <translation>Vnesite PurpleCoin podpis</translation>
+        <source>Enter Purplecoin signature</source>
+        <translation>Vnesite Purplecoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PurpleCoin version</source>
-        <translation>PurpleCoin različica</translation>
+        <source>Purplecoin version</source>
+        <translation>Purplecoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,8 +2808,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PurpleCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno PurpleCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Purplecoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Purplecoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3004,7 +3004,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Purplecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
@@ -3015,7 +3015,7 @@ rpcpassword=%s
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;Purplecoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alarm&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PurpleCoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija PurpleCoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Purplecoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Purplecoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PurpleCoin</source>
-        <translation>PurpleCoin</translation>
+        <source>Purplecoin</source>
+        <translation>Purplecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alarm&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PurpleCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo PurpleCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Purplecoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Purplecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PurpleCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite PurpleCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Purplecoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Purplecoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;PurpleCoin Alarm&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PurpleCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča PurpleCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Purplecoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Purplecoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

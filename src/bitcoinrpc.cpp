@@ -218,12 +218,12 @@ Value stop(const Array& params, bool fHelp)
         throw runtime_error(
             "stop <detach>\n"
             "<detach> is true or false to detach the database or not for this stop only\n"
-            "Stop PurpleCoin server (and possibly override the detachdb config value).");
+            "Stop Purplecoin server (and possibly override the detachdb config value).");
     // Shutdown will take long enough that the response should get back
     if (params.size() > 0)
         bitdb.SetDetach(params[0].get_bool());
     StartShutdown();
-    return "PurpleCoin server stopping";
+    return "Purplecoin server stopping";
 }
 
 
@@ -786,7 +786,7 @@ void ThreadRPCServer2(void* parg)
               "The username and password MUST NOT be the same.\n"
               "If the file does not exist, create it with owner-readable-only file permissions.\n"
               "It is also recommended to set alertnotify so you are notified of problems;\n"
-              "for example: alertnotify=echo %%s | mail -s \"PurpleCoin Alert\" admin@foo.com\n"),
+              "for example: alertnotify=echo %%s | mail -s \"Purplecoin Alert\" admin@foo.com\n"),
                 strWhatAmI.c_str(),
                 GetConfigFile().string().c_str(),
                 EncodeBase58(&rand_pwd[0],&rand_pwd[0]+32).c_str()),
