@@ -1,6 +1,6 @@
-PurpleCoin 0.4.4 BETA
+Purplecoin 0.4.4 BETA
 
-Copyright (c) 2013 PurpleCoin Developers
+Copyright (c) 2013 Purplecoin Developers
 Copyright (c) 2011-2012 PPCoin Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
@@ -11,8 +11,8 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-PurpleCoin is a free open source project derived from Bitcoin, with
+Purplecoin is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
-Built on the foundation of Bitcoin, PPCoin and PurpleCoin, innovations such as proof-of-stake
+Built on the foundation of Bitcoin, PPCoin and Purplecoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
 

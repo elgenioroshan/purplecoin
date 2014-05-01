@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=PurpleCoin
-Comment=PurpleCoin P2P Cryptocurrency
-Comment[fr]=PurpleCoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=PurpleCoin, eşten eşe kriptografik sanal para birimi
+Name=Purplecoin
+Comment=Purplecoin P2P Cryptocurrency
+Comment[fr]=Purplecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Purplecoin, eşten eşe kriptografik sanal para birimi
 Exec=/usr/bin/purplecoin-qt
 Terminal=false
 Type=Application

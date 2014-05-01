@@ -1,4 +1,4 @@
-PurpleCoin-qt: Qt5 GUI for PurpleCoin
+Purplecoin-qt: Qt5 GUI for Purplecoin
 ===============================
 
 Build instructions
@@ -122,9 +122,9 @@ flag to qmake to control this:
 Berkely DB version warning
 ==========================
 
-A warning for people using the *static binary* version of PurpleCoin on a Linux/UNIX-ish system (tl;dr: **Berkely DB databases are not forward compatible**).
+A warning for people using the *static binary* version of Purplecoin on a Linux/UNIX-ish system (tl;dr: **Berkely DB databases are not forward compatible**).
 
-The static binary version of PurpleCoin is linked against libdb 5.0 (see also `this Debian issue`_).
+The static binary version of Purplecoin is linked against libdb 5.0 (see also `this Debian issue`_).
 
 Now the nasty thing is that databases from 5.X are not compatible with 4.X.
 

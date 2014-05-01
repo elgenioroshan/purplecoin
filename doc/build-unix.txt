@@ -16,7 +16,7 @@ To Build
 cd src/
 make -f makefile.unix            # Headless purplecoin
 
-See readme-qt.rst for instructions on building PurpleCoin QT,
+See readme-qt.rst for instructions on building Purplecoin QT,
 the graphical purplecoin.
 
 Dependencies
@@ -73,7 +73,7 @@ If using Boost 1.37, append -mt to the boost libraries in the makefile.
 Dependency Build Instructions: Gentoo
 -------------------------------------
 
-Note: If you just want to install purplecoind on Gentoo, you can add the PurpleCoin
+Note: If you just want to install purplecoind on Gentoo, you can add the Purplecoin
       overlay and use your package manager:
           layman -a purplecoin && emerge purplecoind
 
